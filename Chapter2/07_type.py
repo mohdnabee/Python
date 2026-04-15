@@ -11,3 +11,4 @@ c =  "31.2"
 cc = float(c) # c but the type should be float 
 cc1 =  type(cc)
 print (cc1) 
+
